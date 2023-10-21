@@ -1,22 +1,164 @@
 {
     "Usuarios": [
         {
-          "id": 1,
-          "username": "san.reyes",
-          "email": "san.reyes@duocuc.cl",
-          "password": "contraseña1"
-        },
-        {
-          "id": 2,
-          "username": "usuario2",
-          "email": "usuario2@example.com",
-          "password": "contraseña2"
-        },
-        {
-          "id": 3,
-          "username": "usuario3",
-          "email": "usuario3@example.com",
-          "password": "contraseña3"
-        }
+            "id": 1,
+            "firstname":"santy",
+            "lastname":"reyes",
+            "username": "san.reyes",
+            "email": "san.reyes@duocuc.cl",
+            "password": "contraseña1"
+          },
+          {
+            "id": 2,
+            "firstname": "John",
+            "lastname": "Doe",
+            "username": "joh.doe",
+            "email": "joh.doe@duocuc.cl",
+            "password": "password1"
+          },
+          {
+            "id": 3,
+            "firstname": "Alice",
+            "lastname": "Smith",
+            "username": "ali.smi",
+            "email": "ali.smi@duocuc.cl",
+            "password": "password2"
+          },
+          {
+            "id": 4,
+            "firstname": "Bob",
+            "lastname": "Johnson",
+            "username": "bob.joh",
+            "email": "bob.joh@duocuc.cl",
+            "password": "password3"
+          },
+          {
+            "id": 5,
+            "firstname": "Eva",
+            "lastname": "Williams",
+            "username": "eva.wil",
+            "email": "eva.wil@duocuc.cl",
+            "password": "password4"
+          },
+          {
+            "id": 6,
+            "firstname": "David",
+            "lastname": "Brown",
+            "username": "dav.bro",
+            "email": "dav.bro@duocuc.cl",
+            "password": "password5"
+          },
+          {
+            "id": 7,
+            "firstname": "Sophia",
+            "lastname": "Jones",
+            "username": "sop.jon",
+            "email": "sop.jon@duocuc.cl",
+            "password": "password6"
+          },
+          {
+            "id": 8,
+            "firstname": "Liam",
+            "lastname": "Davis",
+            "username": "lia.dav",
+            "email": "lia.dav@duocuc.cl",
+            "password": "password7"
+          },
+          {
+            "id": 9,
+            "firstname": "Olivia",
+            "lastname": "Miller",
+            "username": "oli.mil",
+            "email": "oli.mil@duocuc.cl",
+            "password": "password8"
+          },
+          {
+            "id": 10,
+            "firstname": "Noah",
+            "lastname": "Garcia",
+            "username": "noa.gar",
+            "email": "noa.gar@duocuc.cl",
+            "password": "password9"
+          },
+          {
+            "id": 11,
+            "firstname": "Mia",
+            "lastname": "Martinez",
+            "username": "mia.mar",
+            "email": "mia.mar@duocuc.cl",
+            "password": "password10"
+          },
+          {
+            "id": 12,
+            "firstname": "William",
+            "lastname": "Rodriguez",
+            "username": "wil.rod",
+            "email": "wil.rod@duocuc.cl",
+            "password": "password11"
+          },
+          {
+            "id": 13,
+            "firstname": "Isabella",
+            "lastname": "Lopez",
+            "username": "isa.lop",
+            "email": "isa.lop@duocuc.cl",
+            "password": "password12"
+          },
+          {
+            "id": 14,
+            "firstname": "James",
+            "lastname": "Lee",
+            "username": "jam.lee",
+            "email": "jam.lee@duocuc.cl",
+            "password": "password13"
+          },
+          {
+            "id": 15,
+            "firstname": "Lucas",
+            "lastname": "Walker",
+            "username": "luc.wal",
+            "email": "luc.wal@duocuc.cl",
+            "password": "password14"
+          },
+          {
+            "id": 16,
+            "firstname": "Charlotte",
+            "lastname": "Hall",
+            "username": "cha.hal",
+            "email": "cha.hal@duocuc.cl",
+            "password": "password15"
+          },
+          {
+            "id": 17,
+            "firstname": "Michael",
+            "lastname": "Young",
+            "username": "mic.you",
+            "email": "mic.you@duocuc.cl",
+            "password": "password16"
+          },
+          {
+            "id": 18,
+            "firstname": "Harper",
+            "lastname": "White",
+            "username": "hap.whi",
+            "email": "hap.whi@duocuc.cl",
+            "password": "password17"
+          },
+          {
+            "id": 19,
+            "firstname": "Alexander",
+            "lastname": "Lewis",
+            "username": "ale.lew",
+            "email": "ale.lew@duocuc.cl",
+            "password": "password18"
+          },
+          {
+            "id": 20,
+            "firstname": "Sophia",
+            "lastname": "Harris",
+            "username": "sop.har",
+            "email": "sop.har@duocuc.cl",
+            "password": "password19"
+          }
       ]
 }
